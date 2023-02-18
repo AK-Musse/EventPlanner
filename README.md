@@ -38,19 +38,19 @@ Sign-Up page:
 ![My Image](/static/images/Screenshot%202023-02-18%20at%2012.32.45%20AM.png)
 
 Event list page:
-![My Image](/event-management/static/images/Screenshot%202023-02-18%20at%2012.37.24%20AM.png)
+![My Image](/static/images/Screenshot%202023-02-18%20at%2012.37.24%20AM.png)
 
 
 Create events:
-![My Image](/event-management/static/images/Screenshot%202023-02-18%20at%2012.38.16%20AM.png)
+![My Image](/static/images/Screenshot%202023-02-18%20at%2012.38.16%20AM.png)
 
 
 Event Details:
-![My Image](/event-management/static/images/Screenshot%202023-02-18%20at%2012.39.01%20AM.png)
+![My Image](/static/images/Screenshot%202023-02-18%20at%2012.39.01%20AM.png)
 
 
 Update event details page:
-![My Image](/event-management/static/images/Screenshot%202023-02-18%20at%2012.40.00%20AM.png)
+![My Image](/static/images/Screenshot%202023-02-18%20at%2012.40.00%20AM.png)
 
 
 
