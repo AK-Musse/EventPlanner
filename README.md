@@ -61,7 +61,7 @@ Trello:
 [Live Site](https://trello.com/b/bCExlnZn/event-management)
 
 Website:
-[Live Site]()
+[Live Site](https://event-management30.herokuapp.com/login)
 
 WIREFRAME:
 [Live Site](https://app.diagrams.net/#G1IBXU4vuw696PzW8W7UJucM7qInzCZvXR)
