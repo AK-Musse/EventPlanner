@@ -1,3 +1,9 @@
+body {
+  background: url("../static/images/event-management-as-a-fast-track-direct-express-path-FG6W14.jpg");
+  background-size: cover;
+}
+
+
 .App {
   text-align: center;
 }
