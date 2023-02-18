@@ -31,11 +31,11 @@ Once a user has event/s in the table they can check the details about that event
 
 ## App Images
 
-Login Page : ![My Image](/event-management/static/images/Screenshot%202023-02-18%20at%2012.35.55%20AM.png)
+Login Page : ![My Image](/static/images/Screenshot%202023-02-18%20at%2012.35.55%20AM.png)
 
 
 Sign-Up page:
-![My Image](/event-management/static/images/Screenshot%202023-02-18%20at%2012.32.45%20AM.png)
+![My Image](/static/images/Screenshot%202023-02-18%20at%2012.32.45%20AM.png)
 
 Event list page:
 ![My Image](/event-management/static/images/Screenshot%202023-02-18%20at%2012.37.24%20AM.png)
